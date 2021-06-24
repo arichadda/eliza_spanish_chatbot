@@ -6,7 +6,7 @@ To run call the `eliza()` funciton in `spanish_eliza_bot.py`
 
 ### History 
 
-It was initially devised as a simple humanistic psychotherapeutic interaction. By using regex to parse inputs, it could prompt the user to delve deeper into the statement made in their previous sentence. While ELIZA likely would not have surpassed the Turing test, it does demonstrate how powerful simply parsing inputs and generating outputs with that information can be when it comes to conversation. The ELIZA system was initally defined in this [paper](https://dl.acm.org/doi/10.1145/365153.365168).
+It was initially devised as a simple humanistic psychotherapeutic interaction. By using regex to parse inputs, it could prompt the user to delve deeper into the statement made in their previous sentence. While ELIZA likely would not have surpassed the Turing test, it does demonstrate how powerful simply parsing inputs and generating outputs with that information can be when it comes to conversation. The ELIZA system was initally defined in this [paper](https://dl.acm.org/doi/10.1145/365153.365168). Credit to Prof. Coto-Solano for this exercise. 
 
 ### Examples 
 I1: Me llamo Ari.
