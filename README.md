@@ -1,4 +1,4 @@
-# eliza_spanish_chatbot
+# ELIZA Spanish Chatbot
 
 ### To Test 
 Run the `spanish_eliza_test.py` file using `python3 spanish_eliza_test.py`. 
